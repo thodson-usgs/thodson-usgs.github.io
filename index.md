@@ -1,3 +1,3 @@
 # Test
 Welcome to the notebook.
-[link](test.html)
+[link](test.md)
